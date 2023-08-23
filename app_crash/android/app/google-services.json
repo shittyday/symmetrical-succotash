@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "30094648137",
+    "project_id": "appcrash-c9cae",
+    "storage_bucket": "appcrash-c9cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30094648137:android:ad02038bffb7df99b8f098",
+        "android_client_info": {
+          "package_name": "com.alex.app_crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30094648137-a9b38saiq7s7u58u9c14oqsda3rbdfbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVCmxO0Krgak3QQf76c3UtaSZ4yv1xS1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30094648137-a9b38saiq7s7u58u9c14oqsda3rbdfbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30094648137-4s35pvheodthnh880cdop6r36u1qltrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appCrash.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
