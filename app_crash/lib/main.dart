@@ -25,6 +25,8 @@ void main() {
     return runApp(const MainApp());
   },
       (error, stack) =>
+
+          /// Ловит любые другие ошибки
           FirebaseCrashlytics.instance.recordError(error, stack, fatal: true));
 }
 
